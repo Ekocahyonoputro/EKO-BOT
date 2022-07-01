@@ -1,29 +1,29 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.thum = fs.readFileSync("./media/zaki.jpg")
+global.thum = fs.readFileSync("./EKO BOT.jpeg")
 
 global.autoReadAll = true 
 
-// '6285878313791' ganti nomor kalian '628xxxxxx'
-//KiZakiXD ganti nama kalian xxxxz
+// '6285877664211' ganti nomor kalian '628xxxxxx'
+//EKO BOT ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6289522183114']
-global.pengguna = 'KiZakiXD'
-global.premium = ['6289522183114']
-global.author = 'ROHMAN'
-global.pemilik = ['6289522183114'] 
-global.ownernomer = '6289522183114'
-global.ownername = 'ROHMANXD'
-global.botname = 'MIA- MD'
+global.owner = ['6285877664211']
+global.pengguna = 'EKO BOT'
+global.premium = ['6285877664211']
+global.author = 'EKO BOT'
+global.pemilik = ['6285877664211'] 
+global.ownernomer = '6285877664211'
+global.ownername = 'EKO BOT'
+global.botname = 'EKO BOT'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6289522183114'
-global.footer = 'ROHMAN- 𝘔 𝘋'
+global.meki = '6285877664211'
+global.footer = 'EKO BOT'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'EKO BOT' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
@@ -31,12 +31,12 @@ global.ig = 'https://instagram.com/iamkizakixd'
 global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '00000'
 global.gopay = '0000'
-global.wame = '6289522183114'
-global.email = 'helloiamkizakixd@gmail.com'
+global.wame = '6285877664211'
+global.email = 'jagoanterang19@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.packname = '"{\nAuthor: EKO BOT"\n"Bot Number: 6285877664211"\n"Bot Name: EKO BOT"\n"Instagram: @EKO BOT"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
